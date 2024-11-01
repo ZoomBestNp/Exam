@@ -21,7 +21,7 @@
             <Button DockPanel.Dock="Right" x:Name="orderButton" Click="OrderButton_Click" Visibility="Hidden">
                 <Image Source="/Images/order.png" Width="30"/>
             </Button>
-            <Label x:Name="CurrentUserLabel" DockPanel.Dock="left" Width="200" Height="60"/>
+            <Label x:Name="CurrentUserLabel" DockPanel.Dock="right" Width="200" Height="60"/>
             <Button x:Name="GoToYourOrders" Click="GoToYourOrders_Click" DockPanel.Dock="Right">
                 <Image Source="/Images/user.png" Width="30"/>
             </Button>

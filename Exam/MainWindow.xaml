@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         WindowStartupLocation="CenterScreen"
         Background="Transparent"
-        Title="ароматный мир" Height="500" Width="1000" Icon="/Images/icon.ico" >
+        Title="ароматный мир" Height="800" Width="1000" Icon="/Images/icon.ico" >
             <Border CornerRadius="35" BorderThickness="20">
         <Border.BorderBrush>
             <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
